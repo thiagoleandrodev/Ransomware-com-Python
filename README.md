@@ -37,14 +37,17 @@ A[Arquivo original] --> B[Encrypter]
 B --> C[Arquivo criptografado]
 C --> D[Decrypter]
 D --> E[Arquivo restaurado]
+
 🔐 Criptografia
 Lê o conteúdo de um arquivo
 Aplica transformação baseada em chave
 Gera versão criptografada
+
 🔓 Descriptografia
 Lê o arquivo criptografado
 Aplica a chave correta
 Restaura o conteúdo original
+
 ▶️ Como Executar
 Clone o repositório
 git clone https://github.com/seu-usuario/seu-repositorio.git
@@ -53,20 +56,18 @@ Execute a criptografia
 python encrypter.py
 Execute a descriptografia
 python decrypter.py
+
 🛠️ Tecnologias Utilizadas
 Python 3
 Manipulação de arquivos (I/O)
 Conceitos básicos de criptografia
+
 📸 Demonstração
-
-Adicione aqui exemplos visuais do funcionamento:
-
 /images/encryption-example.png
 /images/decryption-example.png
+
 ⚠️ Aviso
-
 Este projeto foi desenvolvido exclusivamente para fins educacionais.
-
 Não deve ser utilizado para qualquer atividade que comprometa a segurança de sistemas ou dados de terceiros.
 
 🚀 Melhorias Futuras
@@ -75,11 +76,10 @@ Suporte a múltiplos arquivos
 Integração com bibliotecas como cryptography
 Geração segura de chaves
 Logs de execução
-🌐 Deploy / Repositório
 
-👉 https://github.com/seu-usuario/seu-repositorio
+🌐 Deploy / Repositório
+👉 https://github.com/thiagoleandrodev
 
 👨‍💻 Autor
-
 Desenvolvido por você ✨
-(adicione seu LinkedIn ou portfólio aqui)
+https://www.linkedin.com/in/thiago-dev26/
