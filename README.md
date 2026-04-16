@@ -1,6 +1,4 @@
-# Ransomware-com-Python
-
-🔐 File Encryption Simulator (Python)
+# 🔐 File Encryption Simulator (Python)
 
 Simulação educacional de criptografia de arquivos, desenvolvida em Python para demonstrar conceitos fundamentais de segurança da informação.
 
